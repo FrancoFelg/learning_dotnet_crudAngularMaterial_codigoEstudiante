@@ -6,8 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-//"Server=(local);Database=DBEmpleado;Trusted_Connection=true;TrustServerCertificate=true"
-
 builder.Services.AddDbContext<DbempleadoContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL"));
