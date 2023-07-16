@@ -71,7 +71,7 @@ app.MapRazorPages();
     ) =>
     {
         var listaEmpleado = await _empleadoService.GetList();//Obtiene la lista
-        var listaEmpleadoDto = _mapper.Map<List<DepartamentoDTO>>(listaEmpleado); //Mapea la lista a dto
+        var listaEmpleadoDto = _mapper.Map<List<EmpleadoDTO>>(listaEmpleado); //Mapea la lista a dto
         if (listaEmpleadoDto.Count > 0)//En caso de haber resultados
         {
             return Results.Ok(listaEmpleadoDto);//Los retorna
