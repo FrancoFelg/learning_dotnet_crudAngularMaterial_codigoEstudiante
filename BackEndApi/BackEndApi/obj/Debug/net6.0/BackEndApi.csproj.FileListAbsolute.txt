@@ -85,3 +85,5 @@ C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_co
 C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\BackEndApi\BackEndApi\obj\Debug\net6.0\BackEndApi.pdb
 C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\BackEndApi\BackEndApi\obj\Debug\net6.0\BackEndApi.genruntimeconfig.cache
 C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\BackEndApi\BackEndApi\obj\Debug\net6.0\ref\BackEndApi.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\BackEndApi\BackEndApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\BackEndApi\BackEndApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
