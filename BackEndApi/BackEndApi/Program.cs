@@ -1,5 +1,7 @@
 using BackEndApi.Models;
 using Microsoft.EntityFrameworkCore;
+using BackEndApi.Services.Contrato;
+using BackEndApi.Services.Implementación;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,9 @@ builder.Services.AddDbContext<DbempleadoContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL"));
 });
+
+builder.Services.AddScoped<IDepartamentoService, DepartamentoService>();
+builder.Services.AddScoped<IEmpleadoService, EmpleadoService>();
 
 var app = builder.Build();
 
