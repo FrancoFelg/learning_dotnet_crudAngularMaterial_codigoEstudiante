@@ -1,13 +1,16 @@
 <div style="width: 70%; margin: 40px auto;">
   <h1>Lista de empleados</h1>
   
-  <button mat-raised-button (click)="dialogoNuevoEmpleado()" color="primary">Primary</button>
+  
+  <div style="display: flex">
+    <button mat-raised-button (click)="dialogoNuevoEmpleado()" color="primary" style="height: 56px;">Crear empleado</button>
 
-  <mat-form-field>
-    <mat-label>Filter</mat-label>
-    <input matInput (keyup)="applyFilter($event)" placeholder="Filtrar segun..." #input>
-  </mat-form-field>
-
+    <mat-form-field style="width: 100%;">
+      <mat-label>Filter</mat-label>
+      <input matInput (keyup)="applyFilter($event)" placeholder="Filtrar segun..." #input>
+    </mat-form-field>
+  
+  </div>
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
 
     <!--- Note that these columns can be defined in any order.
@@ -22,7 +25,7 @@
     <!-- Position Column -->
     <ng-container matColumnDef="Departamento">
       <th mat-header-cell *matHeaderCellDef> Departamento </th>
-      <td mat-cell *matCellDef="let element"> {{element.departamento}} </td>
+      <td mat-cell *matCellDef="let element"> {{element.nombreDepartamento}} </td>
     </ng-container>
   
     <!-- Name Column -->
