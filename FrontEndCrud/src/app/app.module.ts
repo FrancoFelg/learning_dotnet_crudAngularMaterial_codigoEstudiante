@@ -23,10 +23,12 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {MatDialogModule} from '@angular/material/dialog';
 
 import {MatGridListModule} from '@angular/material/grid-list';
+import { DialogAddEditComponent } from './Dialogs/dialog-add-edit/dialog-add-edit.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DialogAddEditComponent
   ],
   imports: [
     BrowserModule,

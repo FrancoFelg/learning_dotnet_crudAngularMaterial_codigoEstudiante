@@ -12,8 +12,8 @@ import {Departamento} from '../Interfaces/departamento';
 
 export class DepartamentoService {
 
-  private endPoint:string = environment.endPoint; //se obtiene la variable desde el entorno
-  private apirUrl:string = this.endPoint+"departamento/";//Se concatena al endpoint actual ""departamento"
+  private endPoint:string = "https://localhost:7088/departamento/";; //se obtiene la variable desde el entorno
+  private apirUrl:string = this.endPoint;//Se concatena al endpoint actual ""departamento"
 
 
   constructor(private http:HttpClient) {}

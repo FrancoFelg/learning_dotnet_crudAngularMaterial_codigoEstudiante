@@ -10,14 +10,14 @@ import { Empleado } from '../Interfaces/empleado';
 })
 export class EmpleadoService {
   
-  private endPoint:string = "https://localhost:7088/empleado/"; //se obtiene la variable desde el entorno
+  private endPoint:string = "https://localhost:7088/"; //se obtiene la variable desde el entorno
   private apirUrl:string = this.endPoint+"empleado/";//Se concatena al endpoint actual ""departamento"
-
+ 
 
   constructor(private http:HttpClient) {}
 
   getList():Observable<Empleado[]>{//se observa una peticion
-    return this.http.get<Empleado[]>(`${this.endPoint}lista`);//Se hace un get a la url+lista
+    return this.http.get<Empleado[]>(`${this.apirUrl}lista`);//Se hace un get a la url+lista
   }
 
   add(modelo:Empleado):Observable<Empleado>{
