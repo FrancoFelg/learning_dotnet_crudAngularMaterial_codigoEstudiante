@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AngularNetCrud001.props" />
+</Project>
