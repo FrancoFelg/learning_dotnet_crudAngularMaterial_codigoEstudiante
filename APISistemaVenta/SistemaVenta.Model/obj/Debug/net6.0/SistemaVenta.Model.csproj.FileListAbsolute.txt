@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.deps.json
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\bin\Debug\net6.0\SistemaVenta.Model.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\refint\SistemaVenta.Model.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.Model\obj\Debug\net6.0\ref\SistemaVenta.Model.dll

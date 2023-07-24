@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.deps.json
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\bin\Debug\net6.0\SistemaVenta.DTO.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\refint\SistemaVenta.DTO.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\SistemaVenta.DTO.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net6.0\ref\SistemaVenta.DTO.dll
