@@ -3509,24 +3509,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\franc\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
+    "C:\\Users\\Outlet\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
       "projectName": "SistemaVenta.Model",
-      "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
-      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+      "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+      "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+        "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3534,7 +3529,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

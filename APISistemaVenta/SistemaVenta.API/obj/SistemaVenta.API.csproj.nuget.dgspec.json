@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {}
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
         "projectName": "SistemaVenta.API",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\SistemaVenta.API.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,21 +22,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
               }
             }
           }
@@ -83,21 +78,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
         "projectName": "SistemaVenta.BLL",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,24 +96,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               }
             }
           }
@@ -156,21 +146,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
         "projectName": "SistemaVenta.DAL",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,15 +164,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }
@@ -220,21 +205,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
         "projectName": "SistemaVenta.DTO",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -242,7 +223,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -280,21 +260,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
         "projectName": "SistemaVenta.IOC",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.IOC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -302,21 +278,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
               }
             }
           }
@@ -350,21 +325,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
         "projectName": "SistemaVenta.Model",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -372,7 +343,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -422,21 +392,17 @@
         }
       }
     },
-    "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+    "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
         "projectName": "SistemaVenta.Utility",
-        "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+        "packagesPath": "C:\\Users\\Outlet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Users\\Outlet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -444,18 +410,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
               },
-              "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-                "projectPath": "C:\\Users\\franc\\OneDrive\\Documentos\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+              "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+                "projectPath": "C:\\Users\\Outlet\\Documents\\GitHub\\learning_dotnet_crudAngularMaterial_codigoEstudiante\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
               }
             }
           }
@@ -469,6 +434,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
