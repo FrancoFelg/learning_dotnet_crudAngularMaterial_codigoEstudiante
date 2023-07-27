@@ -13,15 +13,15 @@ namespace SistemaVenta.BLL.Servicios
 {
     public class CategoriaService : ICategoriaService
     {
-        private readonly IGenericRepository<Rol> _rolRepository;
+        private readonly IGenericRepository<Categoria> _categoriaRepository;
         private readonly IMapper _mapper;
 
         public CategoriaService(
-            IGenericRepository<Rol> rolRepository,
+            IGenericRepository<Categoria> CategoriaRepository,
             IMapper mapper
             )
         {
-            _rolRepository = rolRepository;
+            _categoriaRepository = CategoriaRepository;
             _mapper = mapper;
         }
 
@@ -29,7 +29,7 @@ namespace SistemaVenta.BLL.Servicios
         {
             try
             {
-                var listaCategorias = await _rolRepository.Consultar();
+                var listaCategorias = await _categoriaRepository.Consultar();
                 return _mapper.Map<List<CategoriaDTO>>(listaCategorias.ToList());
             }
             catch
