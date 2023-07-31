@@ -10,6 +10,8 @@ import {MatSelectModule} from "@angular/material/select"
 import {MatProgressBarModule} from "@angular/material/progress-bar"
 import {MatProgressSpinnerModule} from "@angular/material/progress-spinner"
 import {MatGridListModule} from "@angular/material/grid-list"
+import { MatSidenavModule } from '@angular/material/sidenav';
+
 
 import {LayoutModule} from "@angular/cdk/layout";//Menues laterales y header
 import {MatToolbarModule} from "@angular/material/toolbar";
@@ -18,7 +20,7 @@ import {MatIconModule} from "@angular/material/icon";
 import {MatListModule } from "@angular/material/list";
 
 import {MatTableModule} from "@angular/material/table";
-import {MatPaginatorModule} from "@angular/material/Paginator";
+import {MatPaginatorModule} from "@angular/material/paginator";
 import {MatDialogModule} from "@angular/material/dialog";
 import {MatSnackBarModule} from "@angular/material/snack-bar";
 import {MatTooltipModule} from "@angular/material/tooltip";
@@ -57,7 +59,8 @@ import {MomentDateModule} from "@angular/material-moment-adapter";
     MatAutocompleteModule,
     MatDatepickerModule,
     MatNativeDateModule,
-    MomentDateModule
+    MomentDateModule,
+    MatSidenavModule
   ]
 })
 export class SharedModule { }
