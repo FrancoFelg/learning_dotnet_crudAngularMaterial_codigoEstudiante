@@ -28,7 +28,7 @@ import {MatAutocompleteModule} from "@angular/material/autocomplete";
 import {MatDatepickerModule} from "@angular/material/datepicker";
 import {MatNativeDateModule} from "@angular/material/core";
 import {MomentDateModule} from "@angular/material-moment-adapter";
-
+import { MatFormFieldModule } from "@angular/material/form-field";
 
 @NgModule({
   declarations: [],
@@ -60,7 +60,8 @@ import {MomentDateModule} from "@angular/material-moment-adapter";
     MatDatepickerModule,
     MatNativeDateModule,
     MomentDateModule,
-    MatSidenavModule
+    MatSidenavModule,
+    MatFormFieldModule
   ]
 })
 export class SharedModule { }

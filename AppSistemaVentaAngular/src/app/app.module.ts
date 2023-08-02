@@ -8,6 +8,7 @@ import { LoginComponent } from './Components/login/login.component';
 import { LayoutComponent } from './Components/layout/layout.component';
 import { SharedModule } from './Reutilizable/shared/shared.module';
 
+
 @NgModule({
   declarations: [
     AppComponent,
