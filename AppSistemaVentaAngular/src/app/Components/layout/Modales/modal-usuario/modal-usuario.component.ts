@@ -112,7 +112,6 @@ export class ModalUsuarioComponent implements OnInit{
       })
     }
 
-
   }
     
   
