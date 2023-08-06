@@ -50,7 +50,7 @@ export class UsuarioComponent implements OnInit, AfterViewInit{
   }
 
   //recibe un evento, del cual se obtiene el valor y se lo almacena
-  aplicarfiltroTabla(event: Event){
+  aplicarFiltroTabla(event: Event){
     const filterValue = (event.target as HTMLInputElement).value;
     this.dataListaUsuarios.filter = filterValue.trim().toLocaleLowerCase();//se filtra segun el valor, sacándole los espacios y en minúsculas
   }
