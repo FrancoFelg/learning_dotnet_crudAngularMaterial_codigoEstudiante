@@ -3,11 +3,12 @@ import { MatTableDataSource } from '@angular/material/table';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatDialog } from '@angular/material/dialog';
 
-import { ModalProductoComponent } from '../../modales/modal-producto/modal-producto.component';
+
 import { Producto } from 'src/app/Interfaces/producto';
 import { ProductoService } from 'src/app/Services/producto.service';
 import { UtilidadService } from 'src/app/Reutilizable/utilidad.service';
 import Swal from 'sweetalert2';
+import { ModalProductoComponent } from '../../modales/modal-producto/modal-producto.component';
 
 @Component({
   selector: 'app-producto',
