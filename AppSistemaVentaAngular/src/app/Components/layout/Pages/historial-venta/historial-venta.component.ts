@@ -1,7 +1,8 @@
-import { AfterViewInit, Component, ViewChild } from '@angular/core';
+import { OnInit, AfterViewInit, Component, ViewChild } from '@angular/core';
 
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { MatTableDataSource } from '@angular/material/table';
+import { MatDatepicker } from '@angular/material/datepicker';
 import { MatPaginator } from '@angular/material/paginator';
 import { MatDialog } from '@angular/material/dialog';
 import { MAT_DATE_FORMATS } from '@angular/material/core';
@@ -31,15 +32,16 @@ export const MY_DATA_FORMATS = {
     {provide: MAT_DATE_FORMATS, useValue: MY_DATA_FORMATS}
   ]
 })
-export class HistorialVentaComponent implements, OnInit, AfterViewInit{
-  
+export class HistorialVentaComponent implements OnInit, AfterViewInit{
+    
+
   formularioBusqueda:FormGroup;
   opcionesBusqueda: any[] = [
     {
-    value:"fecha", descripcion="Por fechas"
+    value:"fecha", descripcion:"Por fechas"
     },
     {
-    value:"numero", descripcion="Numero venta"
+    value:"numero", descripcion:"Numero venta"
     }      
   ]
   columnasTabla: string[] = ["fechaRegistro", "numeroDocumento", "tipoPago", "total", "accion"]
