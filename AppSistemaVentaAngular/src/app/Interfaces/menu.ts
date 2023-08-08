@@ -1,6 +1,6 @@
 export interface Menu {
     idMenu: number,
     nombre: string,
-    Icono: string,
+    icono: string,
     url: string
 }
