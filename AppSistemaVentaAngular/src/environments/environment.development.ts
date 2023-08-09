@@ -1,4 +1,4 @@
 export const environment = {
     proudction: true,
-    endpoint: "http://www.sistemaventasfelg.somee.com/api/"
+    endpoint: "https://www.sistemaventasfelg.somee.com/api/"
 };
