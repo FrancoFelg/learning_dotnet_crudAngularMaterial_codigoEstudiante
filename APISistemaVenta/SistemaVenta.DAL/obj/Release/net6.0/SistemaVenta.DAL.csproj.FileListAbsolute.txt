@@ -1,0 +1,15 @@
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.DAL.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.Model.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\bin\Release\net6.0\SistemaVenta.Model.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\SistemaVenta.DAL.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\learning_dotnet_crudAngularMaterial_codigoEstudiante\APISistemaVenta\SistemaVenta.DAL\obj\Release\net6.0\ref\SistemaVenta.DAL.dll
