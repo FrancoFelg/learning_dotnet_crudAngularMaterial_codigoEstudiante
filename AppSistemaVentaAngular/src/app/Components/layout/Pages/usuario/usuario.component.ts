@@ -27,7 +27,7 @@ export class UsuarioComponent implements OnInit, AfterViewInit{
     private _utilidadServicio: UtilidadService
   ){}
 
-    obtenerUsuarios(){      
+    obtenerUsuarios(){            
       this._usuarioServicio.lista().subscribe({
         next: (data) => {          
           if(data.status){//si el status es true
